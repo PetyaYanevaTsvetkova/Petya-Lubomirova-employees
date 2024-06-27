@@ -1,4 +1,4 @@
-package com.example.demo1;
+package com.javafxtask.employee_scores;
 
 import javafx.application.Application;
 import javafx.collections.FXCollections;

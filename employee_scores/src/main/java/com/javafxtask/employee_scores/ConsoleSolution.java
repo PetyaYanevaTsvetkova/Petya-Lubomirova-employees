@@ -1,9 +1,9 @@
-package com.example.demo1;
+package com.javafxtask.employee_scores;
 
 import java.util.Scanner;
 
 public class ConsoleSolution {
-    private static final String PATH = "D:/JAVA/SirmaTask/input.csv";
+    private static final String PATH = "src/main/resources/input.csv";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
