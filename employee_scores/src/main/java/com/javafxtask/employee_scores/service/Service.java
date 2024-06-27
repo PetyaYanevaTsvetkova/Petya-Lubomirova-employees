@@ -1,4 +1,7 @@
-package com.javafxtask.employee_scores;
+package com.javafxtask.employee_scores.service;
+
+import com.javafxtask.employee_scores.model.ProjectPerEmployee;
+import com.javafxtask.employee_scores.model.Result;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,5 +1,8 @@
 package com.javafxtask.employee_scores;
 
+import com.javafxtask.employee_scores.model.Result;
+import com.javafxtask.employee_scores.service.Service;
+
 import java.util.Scanner;
 
 public class ConsoleSolution {

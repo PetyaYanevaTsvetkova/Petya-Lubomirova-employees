@@ -1,4 +1,4 @@
-package com.javafxtask.employee_scores;
+package com.javafxtask.employee_scores.model;
 
 import java.time.LocalDate;
 

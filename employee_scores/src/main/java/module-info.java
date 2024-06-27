@@ -13,4 +13,8 @@ module com.example.demo1 {
 
     opens com.javafxtask.employee_scores to javafx.fxml;
     exports com.javafxtask.employee_scores;
+    exports com.javafxtask.employee_scores.service;
+    opens com.javafxtask.employee_scores.service to javafx.fxml;
+    exports com.javafxtask.employee_scores.model;
+    opens com.javafxtask.employee_scores.model to javafx.fxml;
 }

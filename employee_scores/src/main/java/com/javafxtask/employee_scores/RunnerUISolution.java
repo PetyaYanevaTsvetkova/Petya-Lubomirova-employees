@@ -1,5 +1,7 @@
 package com.javafxtask.employee_scores;
 
+import com.javafxtask.employee_scores.model.Result;
+import com.javafxtask.employee_scores.service.Service;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
